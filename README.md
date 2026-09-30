@@ -35,3 +35,5 @@ The blocking delay()-based timing is replaced with millis()-based non-blocking t
 ## Learning Outcome
 
 This activity helped me understand GitHub repositories, Issues, branches, Pull Requests, project tracking, root cause analysis and software quality improvement.
+## QA Refactoring
+The LED blinking logic was reviewed and improved using non-blocking timing.
